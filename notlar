@@ -1,0 +1,3 @@
+//.env dosyasini terminalden olusturmak icin echo PORT=8000 > .env 
+// js dosyasi olusturmak icin touch router.js
+//middleware de bir route tur ama 3. bir parametresi var. next gibi
